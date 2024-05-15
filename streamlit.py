@@ -14,7 +14,7 @@ import plotly.graph_objs as go
 
 # Load the data
 # Replace this line with loading your actual data
-data = pd.read_csv('/path/to/your/data.csv')
+data = pd.read_csv('/Users/maxime/Desktop/Capstone/Advanced Data Project/Data Base')
 
 # Apply a matte background
 st.markdown(
